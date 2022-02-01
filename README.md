@@ -1,0 +1,2 @@
+# Frit-omlete
+frit salad
